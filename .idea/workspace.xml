@@ -7,46 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb20edff-6053-4e70-9926-c085a8a0c43f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/doc/实验三.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/实验五.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp3/exp3_1_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp3/exp3_3_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp3/exp3_3_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp3/exp3_3_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp3/exp3_3_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp3/exp3_3_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp3/exp3_3_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp3/exp3_3_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp3/exp3_3_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp3/exp3_3_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp3/exp3_4_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp3/exp3_4_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp3/exp3_4_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp3/exp3_4_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp3/exp3_add_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp5/exp5_1_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp5/exp5_1_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp5/exp5_1_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp5/exp5_1_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp5/exp5_1_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp5/exp5_1_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp5/exp5_1_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp5/exp5_1_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp5/exp5_2_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp5/exp5_2_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp5/exp5_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp5/exp5_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp5/exp5_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp5/exp5_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp5/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/exp5_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test5_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/txt/hlm.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/txt/lhm1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/txt/xx.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exp6/exp6_1_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exp6/exp6_1_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exp2/exp2_4_1_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/exp2/exp2_4_1_3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,21 +32,33 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exp3/exp3_3_9.py">
+        <entry file="file://$PROJECT_DIR$/exp6/exp6_1_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
+            <state relative-caret-position="44">
+              <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exp6/exp6_1_4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="65" selection-start-line="4" selection-start-column="65" selection-end-line="4" selection-end-column="65" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exp3/exp3_1_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="176">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -110,8 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/exp2/exp2_3.py" />
-        <option value="$PROJECT_DIR$/exp2/exp_4_1.py" />
         <option value="$PROJECT_DIR$/exp2/exp2_4_5.py" />
         <option value="$PROJECT_DIR$/exp2/exp2_4_4.py" />
         <option value="$PROJECT_DIR$/exp2/exp2_4_1_1.py" />
@@ -161,14 +134,16 @@
         <option value="$PROJECT_DIR$/exp3/exp3_3_8.py" />
         <option value="$PROJECT_DIR$/exp3/exp3_3_9.py" />
         <option value="$PROJECT_DIR$/exp3/exp3_1_3.py" />
+        <option value="$PROJECT_DIR$/exp6/exp6_1_1.py" />
+        <option value="$PROJECT_DIR$/exp6/exp6_1_4.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="387" />
-    <option name="y" value="183" />
-    <option name="width" value="1635" />
-    <option name="height" value="873" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="240" />
+    <option name="y" value="128" />
+    <option name="width" value="1440" />
+    <option name="height" value="773" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -226,7 +201,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exp3_1_3">
+  <component name="RunManager" selected="Python.exp6_1_4">
     <configuration name="exp3_1_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonNLP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -241,50 +216,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exp3/exp3_1_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exp3_3_6" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonNLP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exp3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exp3/exp3_3_6.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exp3_3_7" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonNLP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exp3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exp3/exp3_3_7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -337,13 +268,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="exp6_1_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonNLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exp6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exp6/exp6_1_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exp6_1_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonNLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exp6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exp6/exp6_1_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exp6_1_4" />
+        <item itemvalue="Python.exp6_1_1" />
         <item itemvalue="Python.exp3_1_3" />
         <item itemvalue="Python.exp3_3_9" />
         <item itemvalue="Python.exp3_3_8" />
-        <item itemvalue="Python.exp3_3_7" />
-        <item itemvalue="Python.exp3_3_6" />
       </list>
     </recent_temporary>
   </component>
@@ -360,7 +335,8 @@
       <workItem from="1556104495407" duration="4874000" />
       <workItem from="1556109461168" duration="3340000" />
       <workItem from="1556113320761" duration="312000" />
-      <workItem from="1557227218582" duration="20744000" />
+      <workItem from="1557227218582" duration="22113000" />
+      <workItem from="1557831934826" duration="4157000" />
     </task>
     <task id="LOCAL-00001" summary="add all">
       <created>1556112020766</created>
@@ -373,7 +349,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29270000" />
+    <option name="totallyTimeSpent" value="34796000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -386,13 +362,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12801608" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21983914" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.51699716" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4305949" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -401,8 +378,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32948717" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3611898" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.6855524" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.80878186" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.26628897" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -431,12 +408,14 @@
     <SUITE FILE_PATH="coverage/PythonNLP$exp2_4_6.coverage" NAME="exp2_4_6 Coverage Results" MODIFIED="1556106997001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp2" />
     <SUITE FILE_PATH="coverage/NLPexp$exp5_3.coverage" NAME="exp5_3 Coverage Results" MODIFIED="1557282199856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp5" />
     <SUITE FILE_PATH="coverage/NLPexp$exp3_4_1.coverage" NAME="exp3_4_1 Coverage Results" MODIFIED="1557285741525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp3" />
+    <SUITE FILE_PATH="coverage/NLPexp$exp6_1_4.coverage" NAME="exp6_1_4 Coverage Results" MODIFIED="1557838266196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp6" />
     <SUITE FILE_PATH="coverage/NLPexp$exp3_3_3.coverage" NAME="exp3_3_3 Coverage Results" MODIFIED="1557286178632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp3" />
     <SUITE FILE_PATH="coverage/NLPexp$exp3_3_6.coverage" NAME="exp3_3_6 Coverage Results" MODIFIED="1557287100467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp3" />
     <SUITE FILE_PATH="coverage/NLPexp$exp2_4_1_3.coverage" NAME="exp2_4_1_3 Coverage Results" MODIFIED="1557232747025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp2" />
     <SUITE FILE_PATH="coverage/NLPexp$exp5_2_2.coverage" NAME="exp5_2_2 Coverage Results" MODIFIED="1557277161521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp5" />
     <SUITE FILE_PATH="coverage/NLPexp$exp5_1_1.coverage" NAME="exp5_1_1 Coverage Results" MODIFIED="1557273983227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp5" />
     <SUITE FILE_PATH="coverage/NLPexp$exp5_4.coverage" NAME="exp5_4 Coverage Results" MODIFIED="1557285168341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp5" />
+    <SUITE FILE_PATH="coverage/NLPexp$exp6_1_1.coverage" NAME="exp6_1_1 Coverage Results" MODIFIED="1557837170936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp6" />
     <SUITE FILE_PATH="coverage/PythonNLP$exp2_3_5.coverage" NAME="exp2_3_5 Coverage Results" MODIFIED="1556105563055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp2" />
     <SUITE FILE_PATH="coverage/PythonNLP$exp2_4_5.coverage" NAME="exp2_4_5 Coverage Results" MODIFIED="1556107485460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp2" />
     <SUITE FILE_PATH="coverage/PythonNLP$exp2_3_4.coverage" NAME="exp2_3_4 Coverage Results" MODIFIED="1556105517244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp2" />
@@ -475,37 +454,10 @@
     <SUITE FILE_PATH="coverage/NLPexp$exp3_1_3.coverage" NAME="exp3_1_3 Coverage Results" MODIFIED="1557287525714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp3" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/exp2/exp2_3_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exp2/exp2_3_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exp5/exp5_1_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/txt/lhm1.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/exp5/exp5_2_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/exp5/exp5_2_1.py" />
     <entry file="file://$PROJECT_DIR$/txt/xx.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -520,18 +472,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exp5/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1320" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exp5/exp_base_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/exp5/test.txt" />
+    <entry file="file://$PROJECT_DIR$/exp5/exp_base_1.py" />
     <entry file="file://$PROJECT_DIR$/exp5/exp5_2_3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -791,6 +733,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="6" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/exp3/exp3_3_9.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -800,8 +749,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exp3/exp3_1_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="176">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp6/exp6_1_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp6/exp6_1_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="65" selection-start-line="4" selection-start-column="65" selection-end-line="4" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
